@@ -2,7 +2,7 @@
 title: 第六周
 ---
 
-Oct 12
+Oct 10
 : [感知智能（计算机视觉，卷积神经网络）](https://bhpan.buaa.edu.cn/link/AA8F6B4BA9A85A462C8F355FA068C33F29)
   : [练习-2](https://bhpan.buaa.edu.cn/link/AA156537B1DA8E4817BC8B8ECA491B9C0B){: .label }， **作业-1 截止**{: .label .label-red }\[[提交](https://bhpan.buaa.edu.cn/link/AA70F529789A5A452FBE51AFDF273DF403)\]，**练习-1 截止**{: .label .label-green }\[[提交](https://bhpan.buaa.edu.cn/link/AA8E1A2E6778FF4204AAEEF04D44BA2DF5)\]
 

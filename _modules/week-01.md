@@ -3,9 +3,9 @@ title: 第二周
 ---
 
 
-Sep 14
-: [人工智能]({{ site.baseurl }}/Files/1-人工智能.pdf), [人工智能介绍](https://bhpan.buaa.edu.cn/link/AAE2877B701A94431199357DE74F9D4117)
-  : [练习-0](https://bhpan.buaa.edu.cn/link/AAB6AA0CB9A665431FA92CFF1B490305B8){: .label }
+Sep 12
+: [1-人工智能]({{ site.baseurl }}/Files/1-人工智能.pdf), [1-人工智能基本概念及应用](https://bhpan.buaa.edu.cn/link/AA987B20BA2B3548E385A96407ECF61DE9)
+  : [练习-0](https://bhpan.buaa.edu.cn/link/AA00B8D56B7BA64D4495CD01726B876387){: .label }
 : 
 
 <!-- Sep 29

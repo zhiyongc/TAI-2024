@@ -20,22 +20,21 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: 星期一
-    events:
-    - name: Office Hours
-      start: 2:30 PM
-      end: 3:30 PM
-      location: 国实 B806，李诚博
   - name: 星期二
   - name: 星期三
   - name: 星期四
     events:
-      - name: Lecture
-        start: 9:50 AM
-        end: 11:25 AM
-        location: J5-302
       - name: Office Hours
-        start: 3:30 PM
-        end: 4:30 PM
-        location: 国实 B805，赵艺萱
+        start: 14:00 AM
+        end: 15:30 AM
+        location:  国实 B805，王梓赫
+      - name: Lecture
+        start: 15:50 AM
+        end: 17:25 AM
+        location: J3-105
+      # - name: Office Hours
+      #   start: 3:30 PM
+      #   end: 4:30 PM
+      #   location: 国实 B805，赵艺萱
   - name: 星期五
 ---

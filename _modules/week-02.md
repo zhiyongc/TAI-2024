@@ -2,7 +2,7 @@
 title: 第三周
 ---
 
-Sep 21
+Sep 19
 : [机器学习基础](https://bhpan.buaa.edu.cn/link/AA131CB2A168C14CAAA5CA431AC720DF99), [深度学习框架简介与PyTorch](https://bhpan.buaa.edu.cn/link/AA61A60F1D27EC42529A72B62A8C4BFDD5)
   : **练习-0 截止**{: .label .label-green }
 

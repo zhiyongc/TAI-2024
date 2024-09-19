@@ -2,7 +2,7 @@
 title: 第七周
 ---
 
-Oct 19
+Oct 17
 : [认知智能（自然语言处理+循环神经网络+Transformer）](https://bhpan.buaa.edu.cn/link/AA2532CCCAB22B49CA9ECF027A59CE3FA7)
   : [练习-3](https://bhpan.buaa.edu.cn/link/AA156CE91EBAFE476CAE69294BDA8B04E3){: .label }， **练习-2 截止**{: .label .label-green }\[[提交](https://bhpan.buaa.edu.cn/link/AA017E6AB088884BA48B016148DD71331E)\]
 

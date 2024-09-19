@@ -2,7 +2,7 @@
 title: 第九周
 ---
 
-Nov 2
+Oct 31
 : [决策智能（深度强化学习）](https://bhpan.buaa.edu.cn/link/AA7CFE03536A32428483285AD5B9717B14)
   : 
 
